@@ -5,6 +5,7 @@ Downloads all images from a specific fotoblur account
 
 *Note this will only work if run before the fotoblur site showdown on 01-03-2017*
 
+ - Download the source files from https://github.com/patrickgalbraith/fotoblur-scraper/archive/master.zip
  - Install nodeJS from https://nodejs.org/en/
  - Open `settings.js` and edit with your account settings make sure you change the username setting
  - Open a terminal/cmd window in the installation directory
